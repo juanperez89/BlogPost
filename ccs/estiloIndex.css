@@ -1,4 +1,9 @@
-#divTitulo{
+
+body{
+
+    color: seagreen;
+}
+#divTitulo h1{
     
     text-align: center;
 }
